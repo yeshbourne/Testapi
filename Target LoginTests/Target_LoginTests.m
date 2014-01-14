@@ -1,6 +1,6 @@
 //
-//  TargetXLoginTests.m
-//  TargetXLoginTests
+//  Target_LoginTests.m
+//  Target LoginTests
 //
 //  Created by Yeshwanth.Gowda on 1/13/14.
 //  Copyright (c) 2014 Target. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface TargetXLoginTests : XCTestCase
+@interface Target_LoginTests : XCTestCase
 
 @end
 
-@implementation TargetXLoginTests
+@implementation Target_LoginTests
 
 - (void)setUp
 {
