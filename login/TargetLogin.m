@@ -21,7 +21,7 @@
     return self;
 }
 
-
+    //Method to requesting authentication by passing username and password
 -(NSString *)requestAuth :(NSString *)uName :(NSString *) passKey{
 
     NSDictionary *auth = [NSDictionary dictionaryWithObjects:[NSArray arrayWithObjects:
